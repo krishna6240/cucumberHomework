@@ -1,0 +1,554 @@
+2021-12-16 12:12:837 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:381 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:392 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:316 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:997 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:324 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:411 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 12:12:326 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 13:12:684 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 13:12:46 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 13:12:988 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 13:12:636 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:386 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:545 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:754 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:486 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:859 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:841 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:62 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:606 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:514 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:706 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:09 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:283 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:888 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (4fb21778391c9fd2200cbd5887fdffde)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:226 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (4fb21778391c9fd2200cbd5887fdffde)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:485 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (4fb21778391c9fd2200cbd5887fdffde)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:695 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (4fb21778391c9fd2200cbd5887fdffde)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:961 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:574 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:395 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (a4e703d90eefa1cd440ece06d1a09932)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:716 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (a4e703d90eefa1cd440ece06d1a09932)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:971 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (a4e703d90eefa1cd440ece06d1a09932)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:116 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (a4e703d90eefa1cd440ece06d1a09932)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:867 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:895 INFO  CarsBuyers :66 - Getting Text from : 7 Honda CR-Vs for Sale under $60,000 in Far West, NSW
+2021-12-16 14:12:22 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:987 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (2ec8686451c9bd707793339f19955fac)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:374 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (2ec8686451c9bd707793339f19955fac)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:594 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (2ec8686451c9bd707793339f19955fac)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:775 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (2ec8686451c9bd707793339f19955fac)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:648 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:675 INFO  CarsBuyers :66 - Getting Text from : 1 Mercedes-Benz E250 for Sale under $50,000 in SA
+2021-12-16 14:12:799 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:493 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (bf6d3824af40f43a2e410c188f168b4b)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:724 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (bf6d3824af40f43a2e410c188f168b4b)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:16 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (bf6d3824af40f43a2e410c188f168b4b)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:382 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (bf6d3824af40f43a2e410c188f168b4b)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:851 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:881 INFO  CarsBuyers :66 - Getting Text from : 7 Jeep Cherokees for Sale under $30,000 in Adelaide, SA
+2021-12-16 14:12:813 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:731 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (c31f4a73dc4ca771fdbd71ca7c2f4c34)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:978 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (c31f4a73dc4ca771fdbd71ca7c2f4c34)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:150 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (c31f4a73dc4ca771fdbd71ca7c2f4c34)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:424 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (c31f4a73dc4ca771fdbd71ca7c2f4c34)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:327 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:546 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 14:12:404 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (3c30148fd8974bc233531aff7f8595a2)] -> xpath: //select[@id='makes']]
+2021-12-16 14:12:653 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (3c30148fd8974bc233531aff7f8595a2)] -> xpath: //select[@id='models']]
+2021-12-16 14:12:911 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (3c30148fd8974bc233531aff7f8595a2)] -> xpath: //select[@id='locations']]
+2021-12-16 14:12:76 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (3c30148fd8974bc233531aff7f8595a2)] -> xpath: //select[@id='priceTo']]
+2021-12-16 14:12:223 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 14:12:261 INFO  CarsBuyers :66 - Getting Text from : 112 Mazda BT-50s for Sale under $80,000 in Country East, WA
+2021-12-16 15:12:205 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:583 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (a3236ae9a21f20c61fe2ccac6333b1cc)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:947 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (a3236ae9a21f20c61fe2ccac6333b1cc)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:195 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (a3236ae9a21f20c61fe2ccac6333b1cc)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:361 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (a3236ae9a21f20c61fe2ccac6333b1cc)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:916 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:929 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:566 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (2e78f637e18d08e8e5883464f55d909b)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:856 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (2e78f637e18d08e8e5883464f55d909b)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:74 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (2e78f637e18d08e8e5883464f55d909b)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:259 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (2e78f637e18d08e8e5883464f55d909b)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:376 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:420 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (2e78f637e18d08e8e5883464f55d909b)] -> xpath: //h1[@class='listing-search-title']]
+2021-12-16 15:12:942 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:507 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (3e8ef07a5c3423a59fe1accf01ad4c9e)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:978 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (3e8ef07a5c3423a59fe1accf01ad4c9e)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:176 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (3e8ef07a5c3423a59fe1accf01ad4c9e)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:358 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (3e8ef07a5c3423a59fe1accf01ad4c9e)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:998 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:39 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (3e8ef07a5c3423a59fe1accf01ad4c9e)] -> xpath: //h1[@class='listing-search-title']]
+2021-12-16 15:12:321 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:649 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (eda04f025f7e3eeec957d74fe9b3ba6c)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:940 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (eda04f025f7e3eeec957d74fe9b3ba6c)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:154 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (eda04f025f7e3eeec957d74fe9b3ba6c)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:437 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (eda04f025f7e3eeec957d74fe9b3ba6c)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:434 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:491 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (eda04f025f7e3eeec957d74fe9b3ba6c)] -> xpath: //h1[@class='listing-search-title']]
+2021-12-16 15:12:34 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:717 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (0c7474fd6dd8ffd25c9bb98f43b23ea1)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:231 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (0c7474fd6dd8ffd25c9bb98f43b23ea1)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:421 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (0c7474fd6dd8ffd25c9bb98f43b23ea1)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:590 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (0c7474fd6dd8ffd25c9bb98f43b23ea1)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:208 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:925 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:293 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (0c0cbaa34c2d704022b89060f6508ae5)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:513 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (0c0cbaa34c2d704022b89060f6508ae5)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:796 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (0c0cbaa34c2d704022b89060f6508ae5)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:188 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (0c0cbaa34c2d704022b89060f6508ae5)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:39 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:86 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (0c0cbaa34c2d704022b89060f6508ae5)] -> xpath: //h1[@class='listing-search-title']]
+2021-12-16 15:12:822 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:387 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (00c4fa96f286a6c726b71ef9ac16edb4)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:641 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (00c4fa96f286a6c726b71ef9ac16edb4)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:970 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (00c4fa96f286a6c726b71ef9ac16edb4)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:210 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (00c4fa96f286a6c726b71ef9ac16edb4)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:280 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:434 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (00c4fa96f286a6c726b71ef9ac16edb4)] -> css selector: .listing-search-title]
+2021-12-16 15:12:143 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:291 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (1066c7c527c3d5b39b304de673a88741)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:673 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (1066c7c527c3d5b39b304de673a88741)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:907 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (1066c7c527c3d5b39b304de673a88741)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:88 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (1066c7c527c3d5b39b304de673a88741)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:611 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:645 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (1066c7c527c3d5b39b304de673a88741)] -> css selector: .listing-search-title]
+2021-12-16 15:12:639 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:626 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (5ea1ec69c432b2ee696db84718a6dad8)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:866 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (5ea1ec69c432b2ee696db84718a6dad8)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:122 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (5ea1ec69c432b2ee696db84718a6dad8)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:412 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (5ea1ec69c432b2ee696db84718a6dad8)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:416 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:454 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (5ea1ec69c432b2ee696db84718a6dad8)] -> css selector: .listing-search-title]
+2021-12-16 15:12:597 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:84 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (3e30506cb95e626496816d555ab93287)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:317 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (3e30506cb95e626496816d555ab93287)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:610 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (3e30506cb95e626496816d555ab93287)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:810 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (3e30506cb95e626496816d555ab93287)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:78 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:128 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (3e30506cb95e626496816d555ab93287)] -> css selector: .listing-search-title]
+2021-12-16 15:12:442 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:785 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (74151c5f88d434954a1d9be5fa148d43)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:44 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (74151c5f88d434954a1d9be5fa148d43)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:312 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (74151c5f88d434954a1d9be5fa148d43)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:564 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (74151c5f88d434954a1d9be5fa148d43)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:247 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:285 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (74151c5f88d434954a1d9be5fa148d43)] -> css selector: .listing-search-title]
+2021-12-16 15:12:377 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:26 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (b5b288c20162bb6e24e774f8233c9edf)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:336 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (b5b288c20162bb6e24e774f8233c9edf)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:617 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (b5b288c20162bb6e24e774f8233c9edf)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:786 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (b5b288c20162bb6e24e774f8233c9edf)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:210 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:252 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (b5b288c20162bb6e24e774f8233c9edf)] -> css selector: .listing-search-title]
+2021-12-16 15:12:923 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:519 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (344f3ef5f44b17bfbbffcafe0e430ee5)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:872 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (344f3ef5f44b17bfbbffcafe0e430ee5)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:150 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (344f3ef5f44b17bfbbffcafe0e430ee5)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:549 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (344f3ef5f44b17bfbbffcafe0e430ee5)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:473 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:527 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (344f3ef5f44b17bfbbffcafe0e430ee5)] -> css selector: .listing-search-title]
+2021-12-16 15:12:581 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:830 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (cfdd68d1a0fc42736ed015e670e0407b)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:132 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (cfdd68d1a0fc42736ed015e670e0407b)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:390 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (cfdd68d1a0fc42736ed015e670e0407b)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:576 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (cfdd68d1a0fc42736ed015e670e0407b)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:284 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:326 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (cfdd68d1a0fc42736ed015e670e0407b)] -> css selector: .listing-search-title]
+2021-12-16 15:12:447 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:876 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (15757c961146678be74f42add3b4eba5)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:243 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (15757c961146678be74f42add3b4eba5)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:594 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (15757c961146678be74f42add3b4eba5)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:807 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (15757c961146678be74f42add3b4eba5)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:600 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:673 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (15757c961146678be74f42add3b4eba5)] -> css selector: .listing-search-title]
+2021-12-16 15:12:752 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:829 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (fdc477301dbca89e059d9ec8a482fe64)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:100 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (fdc477301dbca89e059d9ec8a482fe64)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:341 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (fdc477301dbca89e059d9ec8a482fe64)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:495 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (fdc477301dbca89e059d9ec8a482fe64)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:550 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:585 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (fdc477301dbca89e059d9ec8a482fe64)] -> css selector: .listing-search-title]
+2021-12-16 15:12:678 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:515 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (2e643b48120229c0ff8b655f59ab7dd6)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:739 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (2e643b48120229c0ff8b655f59ab7dd6)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:981 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (2e643b48120229c0ff8b655f59ab7dd6)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:150 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (2e643b48120229c0ff8b655f59ab7dd6)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:891 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:931 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (2e643b48120229c0ff8b655f59ab7dd6)] -> css selector: .listing-search-title]
+2021-12-16 15:12:67 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-16 15:12:857 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (8b62f779d239197e3f6782a7087f4bd0)] -> xpath: //select[@id='makes']]
+2021-12-16 15:12:82 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (8b62f779d239197e3f6782a7087f4bd0)] -> xpath: //select[@id='models']]
+2021-12-16 15:12:283 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (8b62f779d239197e3f6782a7087f4bd0)] -> xpath: //select[@id='locations']]
+2021-12-16 15:12:446 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (8b62f779d239197e3f6782a7087f4bd0)] -> xpath: //select[@id='priceTo']]
+2021-12-16 15:12:982 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-16 15:12:11 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (8b62f779d239197e3f6782a7087f4bd0)] -> css selector: .listing-search-title]
+2021-12-17 09:12:538 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:278 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (ebf78c205401cc9a3fa5cfc1c62a04c4)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:540 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (ebf78c205401cc9a3fa5cfc1c62a04c4)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:693 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (ebf78c205401cc9a3fa5cfc1c62a04c4)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:810 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (ebf78c205401cc9a3fa5cfc1c62a04c4)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:186 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 09:12:232 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (ebf78c205401cc9a3fa5cfc1c62a04c4)] -> css selector: .listing-search-title]
+2021-12-17 09:12:71 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:332 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:480 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:623 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:780 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:764 INFO  CarsBuyers :62 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> xpath: //input[@id='search-submit']]
+2021-12-17 09:12:370 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (7262e699afaec2af2b808ec6a2795e79)] -> css selector: .listing-search-title]
+2021-12-17 09:12:174 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:548 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (3fc4db07b903263f187a9053de22c76b)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:752 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (3fc4db07b903263f187a9053de22c76b)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:894 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (3fc4db07b903263f187a9053de22c76b)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:14 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (3fc4db07b903263f187a9053de22c76b)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:223 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 09:12:270 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (3fc4db07b903263f187a9053de22c76b)] -> css selector: .listing-search-title]
+2021-12-17 09:12:189 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:362 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:513 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:659 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:801 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:955 INFO  CarsBuyers :62 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> xpath: //input[@id='search-submit']]
+2021-12-17 09:12:83 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (56c3902cff31209e0e6bf30b41491cf4)] -> css selector: .listing-search-title]
+2021-12-17 09:12:92 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:51 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (0ea3ce0016a369ab0fb7448dca71f609)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:184 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (0ea3ce0016a369ab0fb7448dca71f609)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:325 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (0ea3ce0016a369ab0fb7448dca71f609)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:458 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (0ea3ce0016a369ab0fb7448dca71f609)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:607 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 09:12:656 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (0ea3ce0016a369ab0fb7448dca71f609)] -> css selector: .listing-search-title]
+2021-12-17 09:12:457 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 09:12:694 INFO  CarsBuyers :42 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (584e033a7bf7ba8234c457a0154a1fe8)] -> xpath: //select[@id='makes']]
+2021-12-17 09:12:826 INFO  CarsBuyers :47 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (584e033a7bf7ba8234c457a0154a1fe8)] -> xpath: //select[@id='models']]
+2021-12-17 09:12:944 INFO  CarsBuyers :52 - Selecting location : [[ChromeDriver: chrome on WINDOWS (584e033a7bf7ba8234c457a0154a1fe8)] -> xpath: //select[@id='locations']]
+2021-12-17 09:12:60 INFO  CarsBuyers :57 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (584e033a7bf7ba8234c457a0154a1fe8)] -> xpath: //select[@id='priceTo']]
+2021-12-17 09:12:376 INFO  CarsBuyers :62 - Selecting Nextcar : Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='search-submit']'
+2021-12-17 09:12:423 INFO  CarsBuyers :67 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (584e033a7bf7ba8234c457a0154a1fe8)] -> css selector: .listing-search-title]
+2021-12-17 10:12:137 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:25 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:913 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:651 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:987 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:788 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:947 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:59 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:160 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:289 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:657 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (ea9198c5866ccbf8be9d16340cce40bc)] -> css selector: .listing-search-title]
+2021-12-17 10:12:722 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:773 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:952 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:63 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:174 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:167 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:510 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (d4831ba769de1ad74403abeca8bcaa24)] -> css selector: .listing-search-title]
+2021-12-17 10:12:352 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:798 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:966 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:90 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:206 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:371 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:710 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (4df69982d60bb9b1cc07893616ebe140)] -> css selector: .listing-search-title]
+2021-12-17 10:12:538 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:884 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:15 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:130 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:230 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:416 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:431 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (375b4e3fa64f17cbc357a8763453abf7)] -> css selector: .listing-search-title]
+2021-12-17 10:12:303 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:678 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:824 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:944 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:73 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:250 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:18 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (ea35592084a3dca801301e76dbfa92b5)] -> css selector: .listing-search-title]
+2021-12-17 10:12:862 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:178 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:314 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:439 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:551 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:656 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:214 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (c3311a68fe52aefd7242fdc37a815a3c)] -> css selector: .listing-search-title]
+2021-12-17 10:12:183 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:156 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:793 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:386 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:617 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:883 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:667 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:318 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:470 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:576 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:692 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:622 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:930 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (a8568b4ada055ad9937e0db1401ac8a9)] -> css selector: .listing-search-title]
+2021-12-17 10:12:816 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:21 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:187 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:290 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:405 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:533 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:967 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (6a77b1e6ddefd184921d41647a77e0fc)] -> css selector: .listing-search-title]
+2021-12-17 10:12:797 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:880 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:30 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:139 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:242 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:377 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:934 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (a42717ad979dd6854e2ea3ed82871c92)] -> css selector: .listing-search-title]
+2021-12-17 10:12:835 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:889 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:19 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:128 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:237 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:379 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:954 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (793f260c3186782aaa8d95bfb5f3aab8)] -> css selector: .listing-search-title]
+2021-12-17 10:12:904 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:544 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:684 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:808 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:942 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:40 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:611 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (c148b643c4c10ee5c6621c16102b2504)] -> css selector: .listing-search-title]
+2021-12-17 10:12:462 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:802 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:917 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:24 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:119 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:280 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:914 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (c282447a418e44f6db87e5306728033e)] -> css selector: .listing-search-title]
+2021-12-17 10:12:766 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:698 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:558 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:188 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:152 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:895 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:607 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:961 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:977 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:627 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:367 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:182 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:407 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:351 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:434 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:544 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:706 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:841 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:999 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:113 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:557 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (b9edc3a9833b3c47f09ab70a0b9bd370)] -> css selector: .listing-search-title]
+2021-12-17 10:12:418 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:693 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:817 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:944 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:78 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:235 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:930 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (6137d2f6eaefe362bd8ab2a3f549c4ea)] -> css selector: .listing-search-title]
+2021-12-17 10:12:801 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:293 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:448 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:563 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:699 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:865 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:705 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (b835dfbb0943aa0cb56d6c62cd6d0cf5)] -> css selector: .listing-search-title]
+2021-12-17 10:12:585 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:82 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:259 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:375 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:521 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:692 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:277 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (686036641fd045484cfc82faf10df2d6)] -> css selector: .listing-search-title]
+2021-12-17 10:12:142 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:618 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:787 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:903 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:16 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:248 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:619 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (3631ffcb9f3c8bac33745f42d3eeb141)] -> css selector: .listing-search-title]
+2021-12-17 10:12:554 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 10:12:97 INFO  CarsBuyers :49 - Select Car from Dropdown list [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> xpath: //select[@id='makes']]
+2021-12-17 10:12:220 INFO  CarsBuyers :54 - Selecting Model : [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> xpath: //select[@id='models']]
+2021-12-17 10:12:344 INFO  CarsBuyers :59 - Selecting location : [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> xpath: //select[@id='locations']]
+2021-12-17 10:12:475 INFO  CarsBuyers :64 - Selecting Price : [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> xpath: //select[@id='priceTo']]
+2021-12-17 10:12:619 INFO  CarsBuyers :69 - Selecting Nextcar : [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> xpath: //input[@id='search-submit']]
+2021-12-17 10:12:248 INFO  CarsBuyers :74 - Getting Text from : [[ChromeDriver: chrome on WINDOWS (5c32ed192d3191f62dd5daaf7943076f)] -> css selector: .listing-search-title]
+2021-12-17 11:12:348 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:14 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:706 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:750 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:41 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (f0d8b64b3487721001f23bc8f16b528f)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (f0d8b64b3487721001f23bc8f16b528f)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:872 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:826 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (e058d1913d755964430c89bee4bc57d2)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (e058d1913d755964430c89bee4bc57d2)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:30 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:272 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (2a6740d2d5e7434cd0ce2b17ce8c1d32)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (2a6740d2d5e7434cd0ce2b17ce8c1d32)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:787 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:651 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (5fd05b03847f146ac64930e18f9ea0af)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (5fd05b03847f146ac64930e18f9ea0af)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:764 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:836 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (ccee8b8544371d63102aa11dc1c5b06c)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (ccee8b8544371d63102aa11dc1c5b06c)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:496 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:283 INFO  HomePage :32 - Mouse hover on : [[ChromeDriver: chrome on WINDOWS (394e4fd6623391fd17428dd9514ea8c6)] -> xpath: //a[contains(text(),'buy + sell')]] And click on :[[ChromeDriver: chrome on WINDOWS (394e4fd6623391fd17428dd9514ea8c6)] -> xpath: //a[contains(text(),'Find a Dealer' )]]
+2021-12-17 11:12:185 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:363 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:692 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:855 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 11:12:822 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:896 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:506 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (40a355f46208b16029aebd09de779299)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:778 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (40a355f46208b16029aebd09de779299)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:910 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:413 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:259 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (bfa880c9716da7a81bb08eb14d1d5324)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:34 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (bfa880c9716da7a81bb08eb14d1d5324)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:27 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:03 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:73 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (af0b7a15364ad18a1d26defb2ff18e85)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:371 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (af0b7a15364ad18a1d26defb2ff18e85)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:880 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:890 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:512 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (91d9d574811503477197df2f7dfcd046)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:748 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (91d9d574811503477197df2f7dfcd046)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:186 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:191 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:232 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c4ebea0ca9c1ef9887b8069ab9b9ef46)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:83 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (c4ebea0ca9c1ef9887b8069ab9b9ef46)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:80 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:15 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:707 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (5d8b2a5fa6d45596ece69edb5141b546)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:13 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (5d8b2a5fa6d45596ece69edb5141b546)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-17 12:12:575 INFO  Dealers :29 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2543 Dealers
+powered by
+2021-12-17 12:12:906 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:382 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:891 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:411 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:606 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> id: makes]
+2021-12-17 12:12:926 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> id: models]
+2021-12-17 12:12:115 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> id: locations]
+2021-12-17 12:12:375 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> id: priceTo]
+2021-12-17 12:12:655 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (c189e453fccb08f4b2c03a9d3fc51a89)] -> id: search-submit]
+2021-12-17 12:12:203 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Audi29 Audi A1s for Sale under $50,000 in Sydney, NSW
+2021-12-17 12:12:602 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:424 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:106 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:596 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:748 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> id: makes]
+2021-12-17 12:12:44 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> id: models]
+2021-12-17 12:12:258 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> id: locations]
+2021-12-17 12:12:470 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> id: priceTo]
+2021-12-17 12:12:191 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (29748ccb30b368be2aa980979deb6ab7)] -> id: search-submit]
+2021-12-17 12:12:637 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Honda77 Honda Civics for Sale under $20,000 in NSW
+2021-12-17 12:12:784 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:109 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:608 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:182 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:328 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> id: makes]
+2021-12-17 12:12:634 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> id: models]
+2021-12-17 12:12:959 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> id: locations]
+2021-12-17 12:12:142 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> id: priceTo]
+2021-12-17 12:12:987 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (a8e3059d3bfc067289138a8dbfbfb874)] -> id: search-submit]
+2021-12-17 12:12:565 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Ford19 Ford Fiestas for Sale under $15,000 in Adelaide, SA
+2021-12-17 12:12:990 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:759 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:179 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:757 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:935 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> id: makes]
+2021-12-17 12:12:111 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> id: models]
+2021-12-17 12:12:352 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> id: locations]
+2021-12-17 12:12:570 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> id: priceTo]
+2021-12-17 12:12:277 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (018058c51eaae0f94eba7310f00e8a7e)] -> id: search-submit]
+2021-12-17 12:12:831 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Nissan61 Nissan Qashqais for Sale under $40,000 in Melbourne, VIC
+2021-12-17 12:12:03 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:905 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:303 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:829 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:993 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> id: makes]
+2021-12-17 12:12:232 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> id: models]
+2021-12-17 12:12:476 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> id: locations]
+2021-12-17 12:12:683 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> id: priceTo]
+2021-12-17 12:12:946 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (8a20f61a488b2f5be00fac8cef3baeec)] -> id: search-submit]
+2021-12-17 12:12:541 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Jaguar1 Jaguar F-Pace for Sale under $80,000 in ACT
+2021-12-17 12:12:68 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:641 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:29 INFO  HomePage :43 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:449 INFO  NewAndUsedCarsSearchPage :73 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-17 12:12:595 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> id: makes]
+2021-12-17 12:12:883 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> id: models]
+2021-12-17 12:12:144 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> id: locations]
+2021-12-17 12:12:295 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> id: priceTo]
+2021-12-17 12:12:380 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (091abf1bd20eda17776dd9bdbae7f682)] -> id: search-submit]
+2021-12-17 12:12:955 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Land Rover2 Land Rover Range Rover Evoques for Sale under $40,000 in Brisbane, QLD
+2021-12-17 12:12:205 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:951 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:12 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:72 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:234 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> id: makes]
+2021-12-17 12:12:432 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> id: models]
+2021-12-17 12:12:625 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> id: locations]
+2021-12-17 12:12:852 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> id: priceTo]
+2021-12-17 12:12:234 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (f6c6a570fb8429c33015eb1a67a4990e)] -> id: search-submit]
+2021-12-17 12:12:292 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Ford33 Used Ford Focus for Sale under $50,000 in New England, NSW
+2021-12-17 12:12:452 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:498 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:377 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:330 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:752 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> id: makes]
+2021-12-17 12:12:979 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> id: models]
+2021-12-17 12:12:154 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> id: locations]
+2021-12-17 12:12:307 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> id: priceTo]
+2021-12-17 12:12:142 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (4f0879d66767cf32f95d7b2c1d8c47b8)] -> id: search-submit]
+2021-12-17 12:12:932 INFO  ResultPage :27 - Verifying Car 'Make' in search result  BMW1 Used BMW 4 Series for Sale under $80,000 in Hunter, NSW
+2021-12-17 12:12:148 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:709 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:532 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:942 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:155 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> id: makes]
+2021-12-17 12:12:376 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> id: models]
+2021-12-17 12:12:632 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> id: locations]
+2021-12-17 12:12:851 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> id: priceTo]
+2021-12-17 12:12:11 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (f2c93906750345114e7a57273cb44be7)] -> id: search-submit]
+2021-12-17 12:12:603 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:655 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:179 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:370 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:920 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> id: makes]
+2021-12-17 12:12:76 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> id: models]
+2021-12-17 12:12:236 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> id: locations]
+2021-12-17 12:12:367 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> id: priceTo]
+2021-12-17 12:12:443 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (f2ecaaf2456db2fc5a3da995b994111b)] -> id: search-submit]
+2021-12-17 12:12:844 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Nissan54 Used Nissan Qashqais for Sale under $40,000 in Melbourne, VIC
+2021-12-17 12:12:813 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:819 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:393 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:542 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:712 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> id: makes]
+2021-12-17 12:12:230 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> id: models]
+2021-12-17 12:12:477 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> id: locations]
+2021-12-17 12:12:639 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> id: priceTo]
+2021-12-17 12:12:788 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (f871d92c6bf03c341ba2bb08c34099e1)] -> id: search-submit]
+2021-12-17 12:12:551 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Jaguar17 Used Jaguar F-Paces for Sale under $100,000 in Perth, WA
+2021-12-17 12:12:62 INFO  ManageDriver :30 - Launching chrome Browser
+2021-12-17 12:12:691 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-17 12:12:680 INFO  HomePage :48 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-17 12:12:284 INFO  UsedCarsPage :27 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-17 12:12:575 INFO  NewAndUsedCarsSearchPage :46 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> id: makes]
+2021-12-17 12:12:989 INFO  NewAndUsedCarsSearchPage :51 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> id: models]
+2021-12-17 12:12:158 INFO  NewAndUsedCarsSearchPage :56 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> id: locations]
+2021-12-17 12:12:294 INFO  NewAndUsedCarsSearchPage :61 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> id: priceTo]
+2021-12-17 12:12:170 INFO  NewAndUsedCarsSearchPage :66 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (1d7322a728e84124af0e9811afaf1657)] -> id: search-submit]
+2021-12-17 12:12:588 INFO  ResultPage :27 - Verifying Car 'Make' in search result  Land Rover7 Used Land Rover Range Rover Evoques for Sale under $70,000 in Brisbane, QLD
